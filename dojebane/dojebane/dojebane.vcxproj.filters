@@ -16,51 +16,81 @@
     <Filter Include="features">
       <UniqueIdentifier>{3f753c4f-1af3-47c3-a599-000b25ff7624}</UniqueIdentifier>
     </Filter>
-    <Filter Include="features\aimbot">
-      <UniqueIdentifier>{902749b7-c6ee-4a69-9681-a49b42071c43}</UniqueIdentifier>
+    <Filter Include="core">
+      <UniqueIdentifier>{7447d416-49ff-4776-97d4-1fe9050058c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hooks">
+      <UniqueIdentifier>{5f371e66-43f1-4a4a-b4c1-f9cca94a6c8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui">
+      <UniqueIdentifier>{90a15878-0205-44c4-903e-747c7562d193}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Pliki źródłowe</Filter>
-    </ClCompile>
-    <ClCompile Include="aa.cpp">
-      <Filter>features</Filter>
-    </ClCompile>
     <ClCompile Include="wallhack.cpp">
       <Filter>features</Filter>
     </ClCompile>
     <ClCompile Include="esp.cpp">
       <Filter>features</Filter>
     </ClCompile>
-    <ClCompile Include="hooks.cpp">
-      <Filter>Pliki źródłowe</Filter>
-    </ClCompile>
     <ClCompile Include="gui.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="memory.cpp">
+    <ClCompile Include="manualmap.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
+    <ClCompile Include="aa.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
     <ClCompile Include="aimbot.cpp">
-      <Filter>features\aimbot</Filter>
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="security.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="memory.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="dx11.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="vmt.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="render.cpp">
+      <Filter>gui</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>gui</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="memory.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
     <ClInclude Include="gui.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="hooks.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
     <ClInclude Include="config.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
+    <ClInclude Include="security.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="manualmap.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="memory.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="hooks.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="aa.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
     <ClInclude Include="aimbot.h">
-      <Filter>features\aimbot</Filter>
+      <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

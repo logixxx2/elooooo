@@ -143,17 +143,25 @@
     <ClCompile Include="aimbot.cpp" />
     <ClCompile Include="esp.cpp" />
     <ClCompile Include="gui.cpp" />
-    <ClCompile Include="hooks.cpp" />
+    <ClCompile Include="dx11.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="manualmap.cpp" />
     <ClCompile Include="memory.cpp" />
+    <ClCompile Include="menu.cpp" />
+    <ClCompile Include="render.cpp" />
+    <ClCompile Include="security.cpp" />
+    <ClCompile Include="vmt.cpp" />
     <ClCompile Include="wallhack.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="aa.h" />
     <ClInclude Include="config.h" />
     <ClInclude Include="gui.h" />
     <ClInclude Include="hooks.h" />
+    <ClInclude Include="manualmap.h" />
     <ClInclude Include="memory.h" />
     <ClInclude Include="aimbot.h" />
+    <ClInclude Include="security.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

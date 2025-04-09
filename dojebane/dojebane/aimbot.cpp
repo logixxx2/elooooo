@@ -1,13 +1,13 @@
-#include "../../hooks/entity.h"
-#include "../../utils/math.h"
+#include "aimbot.h"
 
 namespace features {
-    void Aimbot::Run() {
-        if (!config::aimbotEnabled) return;
+    namespace Aimbot {
+        void Init() {
+            // Tutaj np. wczytanie ustawieñ aimbota
+        }
 
-        Vector3 target = Entity::GetClosestEnemy();
-        if (target.IsValid()) {
-            math::AimAt(target);
+        void Run() {
+            // Tutaj logika aimbota (np. najbli¿szy przeciwnik, ustawienie k¹ta itd.)
         }
     }
 }

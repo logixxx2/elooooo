@@ -27,7 +27,7 @@
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
-    <ConfigurationType>Application</ConfigurationType>
+    <ConfigurationType>Dynamiczna biblioteka (.dll)</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
@@ -156,12 +156,15 @@
   <ItemGroup>
     <ClInclude Include="aa.h" />
     <ClInclude Include="config.h" />
+    <ClInclude Include="dx11.h" />
+    <ClInclude Include="esp.h" />
     <ClInclude Include="gui.h" />
     <ClInclude Include="hooks.h" />
     <ClInclude Include="manualmap.h" />
     <ClInclude Include="memory.h" />
     <ClInclude Include="aimbot.h" />
     <ClInclude Include="security.h" />
+    <ClInclude Include="wallhack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

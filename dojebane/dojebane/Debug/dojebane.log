@@ -1,0 +1,27 @@
+﻿  gui.cpp
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(4,6): error C2653: "GUI": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(5,10): error C2065: "showMenu": niezadeklarowany identyfikator
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(7,5): error C2653: "ImGui": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(7,12): error C3861: "Begin": identyfikatora nie odnaleziono
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(8,5): error C2653: "ImGui": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(8,32): error C2653: "Config": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(8,48): error C2065: "enabled": niezadeklarowany identyfikator
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(8,12): error C3861: "Checkbox": identyfikatora nie odnaleziono
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(9,5): error C2653: "ImGui": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(9,32): error C2653: "Config": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(9,48): error C2065: "fov": niezadeklarowany identyfikator
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(9,12): error C3861: "SliderFloat": identyfikatora nie odnaleziono
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(10,5): error C2653: "ImGui": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\kared\Desktop\elo\dojebane\dojebane\gui.cpp(10,12): error C3861: "End": identyfikatora nie odnaleziono
+  main.cpp
+C:\Users\kared\Desktop\elo\dojebane\dojebane\main.cpp(5,12): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „WinMain”
+C:\Users\kared\Desktop\elo\dojebane\dojebane\main.cpp(5,29): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kared\Desktop\elo\dojebane\dojebane\main.cpp(5,20): error C2065: "HINSTANCE": niezadeklarowany identyfikator
+C:\Users\kared\Desktop\elo\dojebane\dojebane\main.cpp(5,31): error C2065: "HINSTANCE": niezadeklarowany identyfikator
+C:\Users\kared\Desktop\elo\dojebane\dojebane\main.cpp(5,42): error C2065: "LPSTR": niezadeklarowany identyfikator
+C:\Users\kared\Desktop\elo\dojebane\dojebane\main.cpp(5,49): error C2062: nieoczekiwany typ "int"
+C:\Users\kared\Desktop\elo\dojebane\dojebane\main.cpp(5,54): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\kared\Desktop\elo\dojebane\dojebane\main.cpp(5,54): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+  manualmap.cpp
+C:\Users\kared\Desktop\elo\dojebane\dojebane\manualmap.cpp(10,16): error C2065: "hModule": niezadeklarowany identyfikator
+  Generowanie kodu...

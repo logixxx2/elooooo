@@ -1,8 +1,8 @@
 #pragma once
 
 namespace features {
-    namespace Aimbot {
+    namespace Wallhack {
         void Init();
-        void Run();
+        void Apply();
     }
 }

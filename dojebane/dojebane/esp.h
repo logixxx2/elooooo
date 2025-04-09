@@ -1,8 +1,8 @@
 #pragma once
 
 namespace features {
-    namespace Aimbot {
+    namespace ESP {
         void Init();
-        void Run();
+        void Render();
     }
 }

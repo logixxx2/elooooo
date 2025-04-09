@@ -1,5 +1,5 @@
 #include "gui.h"
-#include "../config.h"
+#include "config.h"
 
 void GUI::Render() {
     if (!showMenu) return;

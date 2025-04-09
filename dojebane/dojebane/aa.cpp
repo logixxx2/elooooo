@@ -1,27 +1,13 @@
-#include "antiaim.h"
-#include "../config.h"
+#include "aa.h"
 
-float AntiAim::GetRandomYaw(float baseYaw) {
-    static float lastYaw = 0.f;
-    lastYaw += (rand() % 60 - 30); // Losowa zmiana od -30 do +30
-    return baseYaw + lastYaw;
-}
+namespace features {
+    namespace AA {
+        void Init() {
+            // Inicjalizacja AA
+        }
 
-void AntiAim::Run(UserCmd* cmd, bool& sendPacket) {
-    if (!Config::AntiAim::enabled) return;
-
-    static float realYaw = cmd->viewangles.y;
-
-    if (sendPacket) {
-        // Fake angle
-        cmd->viewangles.y = GetRandomYaw(realYaw + 180.f);
-        cmd->viewangles.x = 89.f; // Pitch up
+        void Run() {
+            // Przesuniêcia view angle, fake lag, etc.
+        }
     }
-    else {
-        // Real angle
-        cmd->viewangles.y = GetRandomYaw(realYaw);
-        cmd->viewangles.x = -89.f; // Pitch down
-    }
-
-    sendPacket = !sendPacket;
 }

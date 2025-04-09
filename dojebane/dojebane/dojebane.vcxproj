@@ -139,6 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\imgui-master\backends\imgui_impl_dx11.cpp" />
+    <ClCompile Include="..\..\imgui-master\imgui.cpp" />
+    <ClCompile Include="..\..\imgui-master\imgui_demo.cpp" />
+    <ClCompile Include="..\..\imgui-master\imgui_widgets.cpp" />
     <ClCompile Include="aa.cpp" />
     <ClCompile Include="aimbot.cpp" />
     <ClCompile Include="esp.cpp" />
@@ -154,6 +158,8 @@
     <ClCompile Include="wallhack.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\imgui-master\backends\imgui_impl_dx11.h" />
+    <ClInclude Include="..\..\imgui-master\imgui.h" />
     <ClInclude Include="aa.h" />
     <ClInclude Include="config.h" />
     <ClInclude Include="dx11.h" />

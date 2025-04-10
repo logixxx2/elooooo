@@ -1,6 +1,129 @@
 ﻿  glow.cpp
-  main.cpp
-  memory.cpp
-  offset.cpp
-  Generowanie kodu...
-  cheaty.vcxproj -> C:\Users\kared\Desktop\elo\cheaty\Debug\cheaty.exe
+C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,28): error C2440: "<function-style-cast>": nie można konwertować z "WCHAR [256]" na "std::string"
+      C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,28):
+      „std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string”: żadna przeciążona funkcja nie może przekonwertować wszystkich typów argumentów
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(744,5):
+          może to być „std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )”
+          with
+          [
+              _Elem=char
+          ]
+              C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,28):
+              „std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Elem *const )”: nie można dokonać konwersji argumentu 1 z „WCHAR [256]” do „const _Elem *const ”
+          with
+          [
+              _Elem=char
+          ]
+                  C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                  Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(1316,5):
+          lub       "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)"
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,28):
+              „std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(std::initializer_list<_Elem>,const _Alloc &)”: nie można dokonać konwersji argumentu 1 z „WCHAR [256]” do „std::initializer_list<_Elem>”
+          with
+          [
+              _Elem=char,
+              _Alloc=std::allocator<char>
+          ]
+          and
+          [
+              _Elem=char
+          ]
+                  C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                  „std::initializer_list<_Elem>::initializer_list”: żadna przeciążona funkcja nie może przekonwertować wszystkich typów argumentów
+          with
+          [
+              _Elem=char
+          ]
+                      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\initializer_list(51,1):
+                      może to być „std::initializer_list<_Elem>::initializer_list(std::initializer_list<_Elem> &&)”
+          with
+          [
+              _Elem=char
+          ]
+                          C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                          „std::initializer_list<_Elem>::initializer_list(std::initializer_list<_Elem> &&)”: nie można dokonać konwersji argumentu 1 z „WCHAR [256]” do „std::initializer_list<_Elem> &&”
+          with
+          [
+              _Elem=char
+          ]
+                              C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                              Przyczyna: nie można skonwertować z "WCHAR [256]" na "std::initializer_list<_Elem>"
+          with
+          [
+              _Elem=char
+          ]
+                              C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                              Konwersja wymaga drugiego operatora konwersji zdefiniowanego przez użytkownika lub konstruktora
+                      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\initializer_list(51,1):
+                      lub       "std::initializer_list<_Elem>::initializer_list(const std::initializer_list<_Elem> &)"
+          with
+          [
+              _Elem=char
+          ]
+                          C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                          „std::initializer_list<_Elem>::initializer_list(const std::initializer_list<_Elem> &)”: nie można dokonać konwersji argumentu 1 z „WCHAR [256]” do „const std::initializer_list<_Elem> &”
+          with
+          [
+              _Elem=char
+          ]
+                              C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                              Przyczyna: nie można skonwertować z "WCHAR [256]" na "const std::initializer_list<_Elem>"
+          with
+          [
+              _Elem=char
+          ]
+                              C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                              Konwersja wymaga drugiego operatora konwersji zdefiniowanego przez użytkownika lub konstruktora
+                      C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                      podczas próby dopasowania listy argumentów "(WCHAR [256])"
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(688,5):
+          lub       "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Alloc &) noexcept"
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,28):
+              „std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const _Alloc &) noexcept”: nie można dokonać konwersji argumentu 1 z „WCHAR [256]” do „const _Alloc &”
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                  Przyczyna: nie można skonwertować z "WCHAR [256]" na "const _Alloc"
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+                  C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                  „std::allocator<char>::allocator”: żadna przeciążona funkcja nie może przekonwertować wszystkich typów argumentów
+                      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xmemory(972,5):
+                      może to być „std::allocator<char>::allocator(const std::allocator<char> &) noexcept”
+                          C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                          „std::allocator<char>::allocator(const std::allocator<char> &) noexcept”: nie można dokonać konwersji argumentu 1 z „WCHAR [256]” do „const std::allocator<char> &”
+                              C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                              Przyczyna: nie można skonwertować z "WCHAR [256]" na "const std::allocator<char>"
+                              C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                              Konwersja wymaga drugiego operatora konwersji zdefiniowanego przez użytkownika lub konstruktora
+                      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xmemory(970,5):
+                      lub       "std::allocator<char>::allocator(void) noexcept"
+                          C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                          "std::allocator<char>::allocator": funkcja nie przyjmuje 1 argumentów
+                      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xmemory(974,5):
+                      lub       "std::allocator<char>::allocator(const std::allocator<_Other> &) noexcept"
+                      C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,37):
+                      podczas próby dopasowania listy argumentów "(WCHAR [256])"
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(774,5):
+          lub       "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Alloc=std::allocator<char>
+          ]
+          C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(28,28):
+          podczas próby dopasowania listy argumentów "(WCHAR [256])"
+  

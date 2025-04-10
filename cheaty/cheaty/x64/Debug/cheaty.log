@@ -1,0 +1,280 @@
+﻿  glow.cpp
+C:\Users\kared\Desktop\elo\cheaty\cheaty\offset.h(27,27): error C2144: błąd składniowy: „float” powinno być poprzedzone „;”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(37,1): warning C4869: Element „nodiscard” można stosować tylko w przypadku klas, wyliczeń i funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(558,1): error C2059: błąd składniowy: „namespace”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(558,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,17): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,37): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,37): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,37): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(573,49): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(574,72): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,6): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,26): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,26): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,26): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(586,111): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(837,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(864,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(866,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(882,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(883,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(885,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(887,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(889,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(890,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2039: „_Common_float_type_t”: nie jest składową elementu „std”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vector(29,1):
+      zobacz deklarację „std”
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2143: błąd składniowy: brakuje „;” przed „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2059: błąd składniowy: „<”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(891,1): error C2334: nieoczekiwany(e) token(y) poprzedzające "{"; pomijanie treści widocznych funkcji
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1): error C2988: nierozpoznana deklaracja/definicja szablonu
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1): error C2059: błąd składniowy: „return”
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1): error C2628: "OffsetManager" poprzedzający "bool" jest niedozwolony (zapomnialeś ";"?)
+  (kompilowanie pliku źródłowego „glow.cpp”)
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1): error C2440: "return": nie można konwertować z "bool" na "OffsetManager"
+  (kompilowanie pliku źródłowego „glow.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\cmath(895,1):
+      Żaden konstruktor nie mógł przyjąć typu źródłowego lub rozpoznanie przeciążenia konstruktora było niejednoznaczne
+  
+C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(30,28): error C2039: „UpdateGlow”: nie jest składową elementu „OffsetManager”
+      C:\Users\kared\Desktop\elo\cheaty\cheaty\offset.h(25,7):
+      zobacz deklarację „OffsetManager”
+  
+C:\Users\kared\Desktop\elo\cheaty\cheaty\glow.cpp(30,28): error C3861: "UpdateGlow": identyfikatora nie odnaleziono
